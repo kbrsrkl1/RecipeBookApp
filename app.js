@@ -1,4 +1,4 @@
-const API_KEY = "c865a2f505b54b35af8103c3ec2da8fc";  // Spoonacular API anahtarı
+const API_KEY = "910bb2fa28844be8b6cec2b9d69c1c56";  // Spoonacular API anahtarı
 const recipeListEl = document.getElementById("recipe-list");  // Tarifi ekleyeceğimiz liste elemanı
 
 // Tarifleri ekrana basan fonksiyon
